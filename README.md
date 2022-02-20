@@ -156,13 +156,3 @@ This first project as a 42/1337 student will help you consolidate your Piscine s
 | External functs | write |
 | Description    	| Outputs the integer ’n’ to the given file descriptor.	|
  
- 
- # <a name="bonus">Bonus<a/>
-For this part we implemented a struct defining the well-known linked lists
-```C
-typedef	struct	s_list
-{
-	void		*content;
-	struct	s_list	*next;
-}			t_list;
-```
