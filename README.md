@@ -156,3 +156,5 @@ This first project as a 42/1337 student will help you consolidate your Piscine s
 | External functs | write |
 | Description    	| Outputs the integer ’n’ to the given file descriptor.	|
  
+ Warning ⚠️ : If you are a 42 Network Student, do not copy/paste this project, it will be a cheat and you will directly get a -42/100.
+----------
